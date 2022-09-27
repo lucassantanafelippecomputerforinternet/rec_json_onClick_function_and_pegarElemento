@@ -1,0 +1,137 @@
+{
+    "professor1": [
+        {
+            "nome": "Bruno Santos"
+        },
+        {
+            "cpf": "12365455590"
+        },
+        {
+            "rg": "127858888"
+        },
+        {
+            "dtNasc": "31/09/1988"
+        },
+        {
+            "tel": "189998363739"
+        },
+        {
+            "email": "bruno@gmail.com"
+        },
+        {
+            "ender": [
+                {
+                    "rua": "manoel lopes"
+                },
+                {
+                    "n": 150
+                },
+                {
+                    "estado": "SP"
+                }
+            ]
+        },
+        {
+            "aform": "ciencias da computacao"
+        },
+        {
+            "titulacao": "mestrado"
+        },
+        {
+            "dataContratacao": "10/09/2021"
+        },
+        {
+            "salario": "5000 R$"
+        }
+    ],
+    "professor2": [
+        {
+            "nome": "Filipe Retali"
+        },
+        {
+            "cpf": "12360455590"
+        },
+        {
+            "rg": "129858888"
+        },
+        {
+            "dtNasc": "01/09/1978"
+        },
+        {
+            "tel": "189998369839"
+        },
+        {
+            "email": "filipe@gmail.com"
+        },
+        {
+            "ender": [
+                {
+                    "rua": "manoel luz"
+                },
+                {
+                    "n": 1500
+                },
+                {
+                    "estado": "SP"
+                }
+            ]
+        },
+        {
+            "aform": "sistemas da informaçao"
+        },
+        {
+            "titulacao": "bacharel"
+        },
+        {
+            "dataContratacao": "09/09/2021"
+        },
+        {
+            "salario": "5000 R$"
+        }
+    ],
+    "professor3": [
+        {
+            "nome": "Oscar"
+        },
+        {
+            "cpf": "123654981590"
+        },
+        {
+            "rg": "127857788"
+        },
+        {
+            "dtNasc": "31/09/1968"
+        },
+        {
+            "tel": "189808363739"
+        },
+        {
+            "email": "oscar@gmail.com"
+        },
+        {
+            "ender": [
+                {
+                    "rua": "jose lopes"
+                },
+                {
+                    "n": 152
+                },
+                {
+                    "estado": "SP"
+                }
+            ]
+        },
+        {
+            "aform": "matematica, fisica"
+        },
+        {
+            "titulacao": "doutor"
+        },
+        {
+            "dataContratacao": "10/09/2021"
+        },
+        {
+            "salario": "5000 R$"
+        }
+    ]
+}
